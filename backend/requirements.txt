@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+anthropic
+google-genai
+groq
+neo4j
+aiofiles
+pillow
